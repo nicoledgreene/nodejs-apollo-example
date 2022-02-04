@@ -2,6 +2,8 @@
 
 This is a sample project demonstrating Apollo using a simple Node.js server
 
+See (https://github.com/nicoledgreene/apollo-angular-example) for sample client for use with this project
+
 ## Getting Started
 
 1. Clone Repo
